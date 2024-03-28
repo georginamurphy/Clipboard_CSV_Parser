@@ -25,6 +25,7 @@ To run the project, use the following command:
 node app.js <file-path-to-input-csv-file>
 ```
 Replace <file-path-to-input-csv-file> with the actual file path to your input CSV file. This will parse the CSV file and output the result to output.csv.
+An example file can be found [here](https://drive.google.com/file/d/10yBg7aHlyMHpYvGfKXUj7yu-1nB984zJ/view).
 
 **Example:**
 
