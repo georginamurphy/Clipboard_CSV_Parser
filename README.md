@@ -5,7 +5,7 @@ A Node.js project for parsing a CSV or TSV file containing algebraic expressions
 ## Installation
 Clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/Clipboard_CSV_Parser.git
+git clone https://github.com/georginamurphy/Clipboard_CSV_Parser.git
 ```
 
 Navigate into the project directory:
